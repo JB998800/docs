@@ -10,9 +10,10 @@ type: quick_start
 topics:
   - Codespaces
 redirect_from:
-  - /codespaces/codespaces-quickstart
+  - /codespaces
 ---
 
+Quickstart
 ## Introduction
 
 In this guide, you'll create a codespace from a [template repository](https://github.com/2percentsilk/haikus-for-codespaces) and explore some of the essential features available to you within the codespace.
